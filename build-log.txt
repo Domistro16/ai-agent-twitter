@@ -1,0 +1,5 @@
+
+> eliza@ build C:\Users\DESMOND EGWURUBE\eliza
+> turbo run build --filter=!eliza-docs "--verbose"
+
+ΓÇëELIFECYCLEΓÇë Command failed with exit code 1.
